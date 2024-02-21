@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vincent",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.7.2",
+    "fastify": "^4.26.1",
+    "fastify-jwt": "^4.2.0",
+    "kafkajs": "^2.2.4",
+    "mongodb": "^6.3.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.1",
+    "scylladb-driver": "^0.0.1-dev"
+  }
+}
